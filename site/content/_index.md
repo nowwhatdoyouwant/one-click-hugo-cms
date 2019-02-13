@@ -1,20 +1,32 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: ' '
+subtitle: ' '
+image: /img/前端海报.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: 现在报名学费仅￥15000
+  text: 名额有限 先到先得
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: What we offer
+  text: |-
+    传统大班制教学不能兼顾每位学生的进度。线上学习又怕自己不能坚持？
+    线下前端精品小班，每个班不超过12人，名师一对一面授！
+    跨平台手机应用开发、微信小程序、网络应用、pc以及手机炫酷网页的全栈工程师课程你值得拥有！
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/html5.png
+    text: HTML/CSS/JS基础
+  - image: /img/online-shop-1.png
+    text: Node.js /Vue 全栈工程师
+  - image: /img/19-手机.png
+    text: 小程序/React/APP移动端
+  - image: /img/09-公文包.png
+    text: 面试培训
+  - {}
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: Our values
+  text: >-
+    Coffee is an amazing part of human culture but it has a dark side too – one
+    of colonialism and mindless abuse of natural resources and human lives. We
+    want to turn this around and return the coffee trade to the drink’s
+    exhilarating, empowering and unifying nature.
 ---
 
