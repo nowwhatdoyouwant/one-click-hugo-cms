@@ -20,7 +20,6 @@ products:
     text: 小程序/React/APP移动端
   - image: /img/09-公文包.png
     text: 面试培训
-  - {}
 values:
   heading: Our values
   text: >-
