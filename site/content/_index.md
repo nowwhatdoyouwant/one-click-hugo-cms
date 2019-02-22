@@ -1,7 +1,7 @@
 ---
 title: ' '
 subtitle: ' '
-image: /img/前端海报.png
+image: /img/aaa.png
 blurb:
   heading: 现在报名学费仅￥15000
   text: 名额有限 先到先得
