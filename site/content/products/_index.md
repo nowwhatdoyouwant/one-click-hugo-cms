@@ -1,7 +1,6 @@
 ---
-title: Our Coffee
-type: products
-image: /img/products-jumbotron.jpg
+title: ' '
+image: /img/课程介绍banner.png
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
@@ -10,93 +9,59 @@ description: >-
   anyone.
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: /img/webqianduan.png
+      text: 课程适合零基础学生。互动式教学风格，从原理出发。零基础学生一周时间即可使用规范代码创建属于自己的网页
+    - image: /img/tuanduigoutong.png
+      text: >-
+        多元化企业真实项目，每个阶段皆会有不同的团队项目实践。以项目巩固知识点，培养个人解决问题能力及团队精神！精品小班6人一组，导师亲自监督项目进程及每日作业点评。
+    - image: /img/xiaochengxu.png
+      text: 从PC端到移动端，跟随时代发展的步伐。微信小程序，APP开发，无所不能的大前端时代已来临！课程涵盖各方面知识点，4个半月内成为前端高手！
+    - image: /img/shejiguifan.png
+      text: 简历怎么写？面试怎么讲？上百家科技公司面试真题共享，针对性个人简历撰写，面试技巧传授！100%纯口碑招生就是高工资高就业率最好的证明！
+  heading: 精品线下面授课程
+  description: 与众不同的教学体验效果
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+  heading: 小班环境
+  description: 给予学生最好的一切是我们的宗旨
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    alt: NANA前端小班
+    image: /img/环境6.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: NANA前端小班
+    image: /img/环境5.jpg
   image3:
-    alt: Coffee beans
-    image: /img/products-grid1.jpg
+    alt: NANA前端小班
+    image: /img/环境2.jpg
 testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
+  - author: 王同学
+    quote: 技术过硬，上课生动
+  - author: 陈同学
+    quote: 娜姐很细心，能照顾到不同同学的需要，强烈推荐
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+  heading: 学费
+  description: 不花里胡哨，做实实在在的教育
   plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
+    - description: '各种隐形费用, 贷款利息高达3000元，总学费算下来2万多起'
       items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans"
-        - One or two varieties of beans"
-      plan: Small
-      price: '50'
-    - description: 'Great for avid drinkers, java-nsoving couples and bigger crowds'
+        - 大班教学40人+
+        - 无法单独辅导
+        - 无法根据学生调整课程进度
+      plan: 其他培训机构
+      price: 18000+
+    - description: '没有任何隐形费用, 提供上课用电脑, 分期付款0利息无压力'
       items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
+        - 2人精品小班
+        - 周末课后辅导
+        - 课程整体进度根据学生适当调整
+        - 适合零基础学生
+      plan: NANA精品小班
+      price: '15000'
+    - description: 1对1私教成本高，效果和小班差不多
       items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+        - 时间灵活
+        - 费用昂贵
+      plan: 1对1私教
+      price: 300/小时
 ---
-
 
