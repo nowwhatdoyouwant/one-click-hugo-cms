@@ -14,12 +14,11 @@ values:
   - heading: 学校管理系统
     imageUrl: /img/student5.gif
     text: 学校后台管理系统
-  - heading: Reinvest profits
-    imageUrl: /img/about-reinvest-profits.jpg
-    text: >
-      We want to truly empower the communities that bring amazing coffee to you.
-      That’s why we reinvest 20% of our profits into farms, local businesses and
-      schools everywhere our coffee is grown. You can see the communities grow
-      and learn more about coffee farming on our blog.
+  - heading: Awatch APP
+    imageUrl: /img/student8.gif
+    text: Awatch 移动商城APP版本
+  - heading: Artlife 艺术商城 APP
+    imageUrl: /img/student9.gif
+    text: 高端艺术品商城APP
 ---
 
