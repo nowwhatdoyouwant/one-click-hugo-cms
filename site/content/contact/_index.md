@@ -1,19 +1,12 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Contact
+logo: /img/logo.png
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: 地址  Location
+    text: 成都天府新区海昌路169号万科海悦汇城西区8栋
+  - heading: 上课时间  Working hours
+    text: '周一至周五: 10AM – 6PM (晚上晚自习)'
 ---
+<h3 class="f4 b lh-title mb2">如何报名?</h3>
 
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
+![](/img/前端海报.png)
